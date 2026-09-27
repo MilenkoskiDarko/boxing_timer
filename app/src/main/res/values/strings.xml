@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Exodus Boxing Timer</string>
+    <string name="app_brand">Exodus Boxing Timer</string>
+
+    <string name="label_rounds">Rounds</string>
+    <string name="label_round_length">Round length</string>
+    <string name="label_rest_length">Rest length</string>
+    <string name="hint_min">min</string>
+    <string name="hint_sec">sec</string>
+
+    <string name="action_start">Start</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_minus10">-10s</string>
+    <string name="action_plus10">+10s</string>
+    <string name="action_minus">-</string>
+    <string name="action_plus">+</string>
+
+    <string name="phase_idle">Ready</string>
+    <string name="phase_prepare">GET READY</string>
+    <string name="phase_round">ROUND</string>
+    <string name="phase_rest">REST</string>
+    <string name="phase_finished">Workout complete</string>
+
+    <string name="round_indicator">Round %1$d / %2$d</string>
+</resources>

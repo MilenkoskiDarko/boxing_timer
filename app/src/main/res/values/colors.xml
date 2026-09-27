@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="phase_idle_bg">#FFFFFF</color>
+    <color name="phase_prepare_bg">#FB8C00</color>
+    <color name="phase_round_bg">#D32F2F</color>
+    <color name="phase_rest_bg">#00897B</color>
+    <color name="phase_finished_bg">#2E7D32</color>
+
+    <color name="phase_text_light">#FFFFFF</color>
+    <color name="phase_text_dark">#1E1E1E</color>
+</resources>
